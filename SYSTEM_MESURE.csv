@@ -1,0 +1,289 @@
+IDM,NOMM,MESURE,IDR
+5001,Temperature,24.5,10
+5002,Pluviometrie,0.0,10
+5003,Force du vent,10.0,10
+5004,Ensoleillement,850.0,10
+5005,Temperature,12.2,20
+5006,Pluviometrie,0.0,20
+5007,Force du vent,10.0,20
+5008,Ensoleillement,280.0,20
+5011,Temperature,26.1,11
+5012,Pluviometrie,0.0,11
+5013,Force du vent,13.0,11
+5014,Ensoleillement,914.0,11
+5015,Temperature,11.7,21
+5016,Pluviometrie,0.0,21
+5017,Force du vent,5.0,21
+5018,Ensoleillement,358.0,21
+5021,Temperature,25.4,12
+5022,Pluviometrie,0.0,12
+5023,Force du vent,14.0,12
+5024,Ensoleillement,886.0,12
+5025,Temperature,11.8,22
+5026,Pluviometrie,0.0,22
+5027,Force du vent,6.0,22
+5028,Ensoleillement,324.0,22
+5031,Temperature,25.3,13
+5032,Pluviometrie,0.0,13
+5033,Force du vent,15.0,13
+5034,Ensoleillement,960.0,13
+5035,Temperature,12.3,23
+5036,Pluviometrie,0.0,23
+5037,Force du vent,10.0,23
+5038,Ensoleillement,361.0,23
+5041,Temperature,25.7,14
+5042,Pluviometrie,0.0,14
+5043,Force du vent,11.0,14
+5044,Ensoleillement,800.0,14
+5045,Temperature,8.7,24
+5046,Pluviometrie,0.0,24
+5047,Force du vent,21.0,24
+5048,Ensoleillement,206.0,24
+5051,Temperature,24.1,15
+5052,Pluviometrie,0.0,15
+5053,Force du vent,16.0,15
+5054,Ensoleillement,786.0,15
+5055,Temperature,8.7,25
+5056,Pluviometrie,0.0,25
+5057,Force du vent,4.0,25
+5058,Ensoleillement,195.0,25
+5061,Temperature,26.4,16
+5062,Pluviometrie,0.0,16
+5063,Force du vent,6.0,16
+5064,Ensoleillement,1318.0,16
+5065,Temperature,6.3,26
+5066,Pluviometrie,0.2,26
+5067,Force du vent,9.0,26
+5068,Ensoleillement,350.0,26
+5071,Temperature,14.5,17
+5072,Pluviometrie,0.0,17
+5073,Force du vent,28.0,17
+5074,Ensoleillement,675.0,17
+5075,Temperature,9.2,27
+5076,Pluviometrie,0.0,27
+5077,Force du vent,7.0,27
+5078,Ensoleillement,205.0,27
+5081,Temperature,14.8,18
+5082,Pluviometrie,0.0,18
+5083,Force du vent,24.0,18
+5084,Ensoleillement,750.0,18
+5085,Temperature,8.5,28
+5086,Pluviometrie,0.0,28
+5087,Force du vent,8.0,28
+5088,Ensoleillement,248.0,28
+5091,Temperature,27.6,19
+5092,Pluviometrie,0.0,19
+5093,Force du vent,28.0,19
+5094,Ensoleillement,858.0,19
+5095,Temperature,8.6,29
+5096,Pluviometrie,0.0,29
+5097,Force du vent,7.0,29
+5098,Ensoleillement,328.0,29
+5101,Temperature,25.7,110
+5102,Pluviometrie,0.0,110
+5103,Force du vent,14.0,110
+5104,Ensoleillement,922.0,110
+5105,Temperature,6.6,210
+5106,Pluviometrie,0.0,210
+5107,Force du vent,14.0,210
+5108,Ensoleillement,356.0,210
+5111,Temperature,25.3,111
+5112,Pluviometrie,0.0,111
+5113,Force du vent,11.0,111
+5114,Ensoleillement,914.0,111
+5115,Temperature,6.7,211
+5116,Pluviometrie,0.0,211
+5117,Force du vent,13.0,211
+5118,Ensoleillement,361.0,211
+5121,Temperature,28.4,112
+5122,Pluviometrie,0.0,112
+5123,Force du vent,13.0,112
+5124,Ensoleillement,945.0,112
+5125,Temperature,6.8,212
+5126,Pluviometrie,0.0,212
+5127,Force du vent,8.0,212
+5128,Ensoleillement,114.0,212
+5131,Temperature,24.4,113
+5132,Pluviometrie,0.0,113
+5133,Force du vent,7.0,113
+5134,Ensoleillement,953.0,113
+5135,Temperature,6.3,213
+5136,Pluviometrie,0.0,213
+5137,Force du vent,8.0,213
+5138,Ensoleillement,381.0,213
+5141,Temperature,23.6,114
+5142,Pluviometrie,0.4,114
+5143,Force du vent,18.0,114
+5144,Ensoleillement,870.0,114
+5145,Temperature,6.9,214
+5146,Pluviometrie,0.0,214
+5147,Force du vent,5.0,214
+5148,Ensoleillement,361.0,214
+5151,Temperature,24.1,115
+5152,Pluviometrie,0.0,115
+5153,Force du vent,9.0,115
+5154,Ensoleillement,742.0,115
+5155,Temperature,6.2,215
+5156,Pluviometrie,0.0,215
+5157,Force du vent,5.0,215
+5158,Ensoleillement,344.0,215
+5161,Temperature,21.3,116
+5162,Pluviometrie,0.0,116
+5163,Force du vent,22.0,116
+5164,Ensoleillement,947.0,116
+5165,Temperature,3.8,216
+5166,Pluviometrie,0.0,216
+5167,Force du vent,11.0,216
+5168,Ensoleillement,344.0,216
+5171,Temperature,24.5,117
+5172,Pluviometrie,0.0,117
+5173,Force du vent,9.0,117
+5174,Ensoleillement,881.0,117
+5175,Temperature,1.1,217
+5176,Pluviometrie,0.0,217
+5177,Force du vent,5.0,217
+5178,Ensoleillement,385.0,217
+5181,Temperature,20.2,118
+5182,Pluviometrie,0.2,118
+5183,Force du vent,7.0,118
+5184,Ensoleillement,889.0,118
+5185,Temperature,4.6,218
+5186,Pluviometrie,0.0,218
+5187,Force du vent,5.0,218
+5188,Ensoleillement,389.0,218
+5191,Temperature,20.0,119
+5192,Pluviometrie,0.0,119
+5193,Force du vent,19.0,119
+5194,Ensoleillement,614.0,119
+5195,Temperature,6.1,219
+5196,Pluviometrie,0.0,219
+5197,Force du vent,5.0,219
+5198,Ensoleillement,383.0,219
+5201,Temperature,25.5,120
+5202,Pluviometrie,0.0,120
+5203,Force du vent,19.0,120
+5204,Ensoleillement,969.0,120
+5205,Temperature,1.6,220
+5206,Pluviometrie,0.0,220
+5207,Force du vent,0.0,220
+5208,Ensoleillement,339.0,220
+5211,Temperature,24.2,121
+5212,Pluviometrie,0.0,121
+5213,Force du vent,6.0,121
+5214,Ensoleillement,841.0,121
+5215,Temperature,4.5,221
+5216,Pluviometrie,0.0,221
+5217,Force du vent,3.0,221
+5218,Ensoleillement,246.0,221
+5221,Temperature,24.8,122
+5222,Pluviometrie,0.0,122
+5223,Force du vent,10.0,122
+5224,Ensoleillement,620.0,122
+5225,Temperature,6.3,222
+5226,Pluviometrie,0.0,222
+5227,Force du vent,5.0,222
+5228,Ensoleillement,298.0,222
+5231,Temperature,21.4,123
+5232,Pluviometrie,0.0,123
+5233,Force du vent,9.0,123
+5234,Ensoleillement,586.0,123
+5235,Temperature,2.7,223
+5236,Pluviometrie,0.0,223
+5237,Force du vent,9.0,223
+5238,Ensoleillement,361.0,223
+5241,Temperature,21.3,124
+5242,Pluviometrie,2.2,124
+5243,Force du vent,23.0,124
+5244,Ensoleillement,975.0,124
+5245,Temperature,5.9,224
+5246,Pluviometrie,0.0,224
+5247,Force du vent,15.0,224
+5248,Ensoleillement,381.0,224
+5251,Temperature,25.7,125
+5252,Pluviometrie,0.0,125
+5253,Force du vent,6.0,125
+5254,Ensoleillement,967.0,125
+5255,Temperature,1.3,225
+5256,Pluviometrie,0.0,225
+5257,Force du vent,10.0,225
+5258,Ensoleillement,358.0,225
+5261,Temperature,21.4,126
+5262,Pluviometrie,0.4,126
+5263,Force du vent,12.0,126
+5264,Ensoleillement,945.0,126
+5265,Temperature,2.9,226
+5266,Pluviometrie,0.0,226
+5267,Force du vent,17.0,226
+5268,Ensoleillement,353.0,226
+5271,Temperature,19.7,127
+5272,Pluviometrie,0.6,127
+5273,Force du vent,14.0,127
+5274,Ensoleillement,997.0,127
+5275,Temperature,4.7,227
+5276,Pluviometrie,0.0,227
+5277,Force du vent,6.0,227
+5278,Ensoleillement,361.0,227
+5281,Temperature,22.0,128
+5282,Pluviometrie,0.0,128
+5283,Force du vent,11.0,128
+5284,Ensoleillement,606.0,128
+5285,Temperature,-0.4,228
+5286,Pluviometrie,0.0,228
+5287,Force du vent,5.0,228
+5288,Ensoleillement,347.0,228
+5291,Temperature,24.3,129
+5292,Pluviometrie,0.0,129
+5293,Force du vent,5.0,129
+5294,Ensoleillement,836.0,129
+5295,Temperature,3.1,229
+5296,Pluviometrie,0.0,229
+5297,Force du vent,13.0,229
+5298,Ensoleillement,283.0,229
+5301,Temperature,21.2,130
+5302,Pluviometrie,0.0,130
+5303,Force du vent,15.0,130
+5304,Ensoleillement,822.0,130
+5305,Temperature,2.9,230
+5306,Pluviometrie,0.0,230
+5307,Force du vent,12.0,230
+5308,Ensoleillement,333.0,230
+5311,Temperature,22.4,131
+5312,Pluviometrie,8.3,131
+5313,Force du vent,4.0,131
+5314,Ensoleillement,733.0,131
+5315,Temperature,2.9,231
+5316,Pluviometrie,0.0,231
+5317,Force du vent,12.0,231
+5318,Ensoleillement,242.0,231
+5321,Temperature,20.8,132
+5322,Pluviometrie,0.4,132
+5323,Force du vent,6.0,132
+5324,Ensoleillement,728.0,132
+5325,Temperature,-0.1,232
+5326,Pluviometrie,0.0,232
+5327,Force du vent,9.0,232
+5328,Ensoleillement,119.0,232
+5331,Temperature,20.1,133
+5332,Pluviometrie,3.0,133
+5333,Force du vent,7.0,133
+5334,Ensoleillement,867.0,133
+5335,Temperature,-2.6,233
+5336,Pluviometrie,0.0,233
+5337,Force du vent,6.0,233
+5338,Ensoleillement,139.0,233
+5341,Temperature,23.8,134
+5342,Pluviometrie,2.9,134
+5343,Force du vent,8.0,134
+5344,Ensoleillement,903.0,134
+5345,Temperature,0.3,234
+5346,Pluviometrie,0.7,234
+5347,Force du vent,6.0,234
+5348,Ensoleillement,67.0,234
+5351,Temperature,20.1,135
+5352,Pluviometrie,2.6,135
+5353,Force du vent,10.0,135
+5354,Ensoleillement,792.0,135
+5355,Temperature,4.6,235
+5356,Pluviometrie,0.0,235
+5357,Force du vent,22.0,235
+5358,Ensoleillement,314.0,235
